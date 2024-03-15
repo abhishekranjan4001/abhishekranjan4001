@@ -14,6 +14,9 @@ I'm a passionate software developer from Bengaluru, India 🌍.
 
 [![Linkedin](https://img.shields.io/badge/-AbhishekRanjan-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekranjan65/)
 [![Twitter](https://img.shields.io/badge/-AbhishekRanjan-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abhiranjan4001)
+[![Instagram](https://img.shields.io/badge/-abhishekranjan-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_abhishek_6585/)
+
+<h3 align="left">Coding Portfolio:</h3>
 <a href="https://auth.geeksforgeeks.org/user/ranjan3324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ranjan3324" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishekranjan4001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekranjan4001" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@abhishekranjan66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhishekranjan66" height="30" width="40" /></a>

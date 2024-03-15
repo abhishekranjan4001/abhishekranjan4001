@@ -1,7 +1,7 @@
                                                   # Hello, I'm Abhishek Ranjan 👋
 
-                                             Student|Frontend| Blockchain | Software Engineer  
-I'm a passionate software developer from Bengaluru, India 🌍.
+                                             
+ I'm a passionate software developer from Bengaluru, India 🌍.
 
 - 🌱 I’m currently learning Blockchain.
 - 👯 I’m looking to collaborate on Hyperledger, Frontend.

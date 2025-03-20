@@ -4,9 +4,9 @@
                                              
  I'm a passionate software developer from Bengaluru, India 🌍.
 
-- 🌱 I’m currently learning Blockchain.
+- 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on Hyperledger, Frontend.
-- 💬 Ask me about Hackathon, Blockchain, Frontend.
+- 💬 Ask me about Hackathon, DevOps, Blockchain and Frontend.
 - 📫 How to reach me: abhishekranjan6585@gmail.com.
 - 😄 Pronouns: He/Him
 
